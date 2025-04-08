@@ -59,7 +59,7 @@
       </tbody>
     </table>
     <br><br>
-    <a href="/contact/helpdesk.php" class="btn btn-secondary">Verstuur een vraag naar de helpdesk</a>
+    <a href="http://biangoole.gc-webhosting.nl/toetsPeriode7/netwerkenToets/contact/helpdesk.php" class="btn btn-secondary">Verstuur een vraag naar de helpdesk</a>
   </div>
 </body>
 
