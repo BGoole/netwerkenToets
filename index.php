@@ -59,7 +59,7 @@
       </tbody>
     </table>
     <br><br>
-    <a href="contact/helpdesk.php" class="btn btn-secondary">Verstuur een vraag naar de helpdesk</a>
+    <a href="/contact/helpdesk.php" class="btn btn-secondary">Verstuur een vraag naar de helpdesk</a>
   </div>
 </body>
 
