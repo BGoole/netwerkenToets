@@ -80,7 +80,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
     if(empty($nameErr) && empty($emailErr) && empty($messageErr)){
         // Recipient email address
         // this should be your mail address:
-        $to = 'someone@mail.com';
+        $to = 'biangoole@gc-webhosting.nl';
         
         // Create email headers
         $headers = 'From: '. $email . "\r\n" .
